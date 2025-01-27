@@ -11,7 +11,7 @@ The Car Rental System is a Java-based application designed to streamline the pro
 
 4. Dynamic Pricing: Calculates the total rental price based on the selected car's base price and rental duration.
 
-Menu-Driven Interface: Offers a simple command-line menu for interaction: 
+5. Menu-Driven Interface: Offers a simple command-line menu for interaction: 
 Rent a car, 
 Return a car, 
 Exit the system
